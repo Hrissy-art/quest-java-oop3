@@ -1,10 +1,11 @@
 public abstract class Bird {
   
     // attributes  
-    private String name;  
+    private String name;
     private int age;
   
-    // constructors  
+    // constructors
+
     public Bird(String name) {  
         this.name = name;  
         this.age = 0;  
